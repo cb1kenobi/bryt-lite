@@ -4,6 +4,7 @@ Get colors by brightness.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
+[![Travis CI Build][travis-image]][travis-url]
 [![Deps][david-image]][david-url]
 [![Dev Deps][david-dev-image]][david-dev-url]
 
@@ -103,6 +104,8 @@ MIT
 [npm-url]: https://npmjs.org/package/bryt-lite
 [downloads-image]: https://img.shields.io/npm/dm/bryt-lite.svg
 [downloads-url]: https://npmjs.org/package/bryt-lite
+[travis-image]: https://img.shields.io/travis/cb1kenobi/bryt-lite.svg
+[travis-url]: https://travis-ci.org/cb1kenobi/bryt-lite
 [david-image]: https://img.shields.io/david/cb1kenobi/bryt-lite.svg
 [david-url]: https://david-dm.org/cb1kenobi/bryt-lite
 [david-dev-image]: https://img.shields.io/david/dev/cb1kenobi/bryt-lite.svg

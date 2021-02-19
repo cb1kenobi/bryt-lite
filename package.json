@@ -15,7 +15,7 @@
     "build": "node scripts/build",
     "coverage": "c8 npm run test",
     "lint": "eslint src --ignore-pattern lookup.js",
-    "prepack": "npm run lint && npm run build",
+    "prepack": "npm run lint",
     "test": "npm run lint && mocha test/**/test-*.js --reporter spec"
   },
   "devDependencies": {

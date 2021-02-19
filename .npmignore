@@ -1,0 +1,13 @@
+._*
+.cache
+.DS_Store
+.eslintrc
+.git*
+.travis.yml
+coverage
+node_modules
+npm-debug.log
+scripts
+yarn.lock
+yarn-error.log
+test

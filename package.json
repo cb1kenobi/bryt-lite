@@ -1,0 +1,35 @@
+{
+  "name": "bryt-lite",
+  "version": "1.0.0",
+  "description": "Get colors by brightness.",
+  "type": "module",
+  "exports": "./src/index.js",
+  "author": "Chris Barber <chris@cb1inc.com> (https://github.com/cb1kenobi)",
+  "license": "MIT",
+  "keywords": [
+    "brightness",
+    "bright",
+    "colors"
+  ],
+  "scripts": {
+    "build": "node scripts/build",
+    "coverage": "c8 npm run test",
+    "lint": "eslint src --ignore-pattern lookup.js",
+    "prepack": "npm run lint && npm run build",
+    "test": "npm run lint && mocha test/**/test-*.js --reporter spec"
+  },
+  "devDependencies": {
+    "ansi-colors": "^4.1.1",
+    "c8": "^7.6.0",
+    "chai": "^4.3.0",
+    "eslint": "^7.20.0",
+    "eslint-plugin-security": "^1.4.0",
+    "mocha": "^8.3.0"
+  },
+  "homepage": "https://github.com/cb1kenobi/bryt-lite",
+  "bugs": "https://github.com/cb1kenobi/bryt-lite/issues",
+  "repository": "https://github.com/cb1kenobi/bryt-lite",
+  "engines": {
+    "node": ">=12"
+  }
+}

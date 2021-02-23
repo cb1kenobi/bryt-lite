@@ -105,8 +105,8 @@ MIT
 [npm-url]: https://npmjs.org/package/bryt-lite
 [downloads-image]: https://img.shields.io/npm/dm/bryt-lite.svg
 [downloads-url]: https://npmjs.org/package/bryt-lite
-[travis-image]: https://img.shields.io/travis/cb1kenobi/bryt-lite.svg
-[travis-url]: https://travis-ci.org/cb1kenobi/bryt-lite
+[travis-image]: https://travis-ci.com/cb1kenobi/bryt-lite.svg?branch=master
+[travis-url]: https://travis-ci.com/github/cb1kenobi/bryt-lite
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/a7xlgde23wmm0yx6?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/cb1kenobi/bryt-lite
 [david-image]: https://img.shields.io/david/cb1kenobi/bryt-lite.svg

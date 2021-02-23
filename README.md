@@ -5,6 +5,7 @@ Get colors by brightness.
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Travis CI Build][travis-image]][travis-url]
+[![Appveyor CI Build][appveyor-image]][appveyor-url]
 [![Deps][david-image]][david-url]
 [![Dev Deps][david-dev-image]][david-dev-url]
 
@@ -106,6 +107,8 @@ MIT
 [downloads-url]: https://npmjs.org/package/bryt-lite
 [travis-image]: https://img.shields.io/travis/cb1kenobi/bryt-lite.svg
 [travis-url]: https://travis-ci.org/cb1kenobi/bryt-lite
+[appveyor-image]: https://ci.appveyor.com/api/projects/status/a7xlgde23wmm0yx6?svg=true
+[appveyor-url]: https://ci.appveyor.com/project/cb1kenobi/bryt-lite
 [david-image]: https://img.shields.io/david/cb1kenobi/bryt-lite.svg
 [david-url]: https://david-dm.org/cb1kenobi/bryt-lite
 [david-dev-image]: https://img.shields.io/david/dev/cb1kenobi/bryt-lite.svg

@@ -1,6 +1,6 @@
 {
   "name": "bryt-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get colors by brightness.",
   "type": "module",
   "exports": "./src/index.js",
@@ -14,7 +14,7 @@
   "scripts": {
     "build": "node scripts/build",
     "coverage": "c8 npm run test",
-    "lint": "eslint src --ignore-pattern lookup.js",
+    "lint": "eslint src test --ignore-pattern lookup.js",
     "prepack": "npm run lint",
     "test": "npm run lint && mocha test/**/test-*.js --reporter spec"
   },

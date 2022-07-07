@@ -1,3 +1,7 @@
+# v2.0.1 (Jul 7, 2022)
+
+ * chore: Updated dev dependencies.
+
 # v2.0.0 (Mar 1, 2022)
 
  * BREAKING CHANGE: Require Node.js 14.15.0 LTS or newer.
